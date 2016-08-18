@@ -4,7 +4,8 @@
 3. pwd
 4. cd ..
 5. git init
-6. git add .
+6. git add . or git add --ignore-errors . 
+7. git status
 7. git commit -m "first commit"
 8. git remote add origin "https://github.com/akankshajagwani/Course-Algorithm"
 9. git remote -v
